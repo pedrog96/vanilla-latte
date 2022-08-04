@@ -1,3 +1,5 @@
 The original csv that held the data was too large to upload through the GUI.
 I did not know how to upload it throught the command line at that moment, so I split it into two csv files.
 The script that generates the data should be included. 
+The files here are meant to be run on google colab using gpu.
+It takes around 30 minutes for google colab to download the necessary libraries.
