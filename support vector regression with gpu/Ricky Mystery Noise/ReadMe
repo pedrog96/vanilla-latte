@@ -1,2 +1,6 @@
 The csv file that was used was more than 25 mb and was not uploadable.
 The csv file was split up halfway into two smaller csv files.
+The svr_with_cudf_ricky.py file was used to generate the time data using Ohio State's computer with GPU. 
+This process took almost 5 hours. 
+The svr_with_cudf_ricky.py and svr_with_cudf_ricky.ipynb files both contain a specific svr model for Ricky's data.
+I would recommend commenting out the portion that generates the time data before running those two files. 
